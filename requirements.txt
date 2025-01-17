@@ -1,0 +1,12 @@
+python-dotenv
+
+# loaders
+mammoth
+pdfplumber
+PyPDF2
+llama_parse
+
+# langchain
+langchain_openai
+langchain-core
+langchain-google-vertexai
